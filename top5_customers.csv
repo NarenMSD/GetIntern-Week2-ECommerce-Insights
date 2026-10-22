@@ -1,0 +1,5 @@
+customer_id,customer_name,city,Total_Spend,Order_Count,Average_Order_Value
+103,Aman,Mumbai,13000,3,4333.333333333333
+101,Rahul,Mumbai,12000,2,6000.0
+105,Vikash,Delhi,10000,2,5000.0
+102,Priya,Delhi,3000,1,3000.0
